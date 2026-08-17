@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate-xwalk/:/",
-    "/content/aem-boilerplate-xwalk/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-xwalk/metadata:/metadata.json"
+    "/content/2026/34/activepanda80469/:/",
+    "/content/2026/34/activepanda80469/configuration:/.helix/config.json",
+    "/content/2026/34/activepanda80469/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate-xwalk/"
+    "/content/2026/34/activepanda80469/"
   ]
 }
